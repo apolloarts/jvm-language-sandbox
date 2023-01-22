@@ -1,7 +1,7 @@
 # jvm-language-sandbox
 A project to show simple examples for JVM languages such (Java, Kotlin and Scala) together in one place.
 
-### General
+### Basic
 - Hello World
 - List
 - Collections API
