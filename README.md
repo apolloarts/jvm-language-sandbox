@@ -4,9 +4,9 @@ A project to show simple examples for JVM languages such (Java, Kotlin and Scala
 ### Basic
 - Hello World
 - List
-- Collections API
 - Singleton
 - Factory
+- Collections API
 
 ### Scala specifics
 - Scala Functions and Closures
