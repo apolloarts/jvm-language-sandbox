@@ -8,7 +8,9 @@ A project to show simple examples for JVM languages such (Java, Kotlin and Scala
 - Factory
 
 ### Scala specifics
-- Scala Functions and Closures
+- Scala Lambda
+- Scala tail recursions
+- Scala Closures
 - Scala Traits
 - Scala pattern matching
 - Scala Implicits
