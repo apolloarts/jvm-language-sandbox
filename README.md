@@ -6,7 +6,6 @@ A project to show simple examples for JVM languages such (Java, Kotlin and Scala
 - List
 - Singleton
 - Factory
-- Collections API
 
 ### Scala specifics
 - Scala Functions and Closures
